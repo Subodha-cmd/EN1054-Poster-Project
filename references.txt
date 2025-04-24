@@ -1,0 +1,3 @@
+FSO article --- https://www.sciencedirect.com/topics/physics-and-astronomy/free-space-optical-communication
+FSO on Wikipedia ---- https://en.wikipedia.org/wiki/Long-range_optical_wireless_communication
+VLC on Wikipedia ----- https://en.wikipedia.org/wiki/Visible_light_communication
